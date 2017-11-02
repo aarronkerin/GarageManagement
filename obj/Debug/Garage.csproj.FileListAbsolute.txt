@@ -1,0 +1,6 @@
+C:\Development\Garage\Garage\Garage\bin\Debug\Garage.exe.config
+C:\Development\Garage\Garage\Garage\obj\Debug\Garage.csprojResolveAssemblyReference.cache
+C:\Development\Garage\Garage\Garage\bin\Debug\Garage.exe
+C:\Development\Garage\Garage\Garage\bin\Debug\Garage.pdb
+C:\Development\Garage\Garage\Garage\obj\Debug\Garage.exe
+C:\Development\Garage\Garage\Garage\obj\Debug\Garage.pdb
